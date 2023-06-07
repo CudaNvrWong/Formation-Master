@@ -1,2 +1,4 @@
 # Formation-Master
-This is a GUI that allows to create formations and transitions with music ontop 
+The choreography assistant program is a powerful tool designed to revolutionize the way dancers and choreographers create, manage, and visualize their dance formations. With its intuitive interface and robust feature set, this program aims to streamline the choreographic process, enabling users to bring their artistic vision to life with ease. Using this program, dancers and choreographers can effortlessly design intricate dance formations, synchronize them with music, and visualize their choreography in real-time. One of the key highlights of the program is its ability to visualize formations dynamically, allowing users to see their choreography come alive in a visually stunning manner. Whether it's a solo performance, group routine, or complex ensemble piece, the program offers a rich set of visualization tools to enhance the creative process.
+
+
